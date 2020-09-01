@@ -1,5 +1,5 @@
 {
-  "name": "with-redux-redux-thunk",
+  "name": "with-redux-thunk",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
